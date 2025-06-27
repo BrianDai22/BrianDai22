@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Brian Dai and I'm currently a student attending Great Neck South High School. I started learning Java around the beginning of 8th grade. During my learning journey there were a lot of ups and downs, but I'm here now at the USACO Silver level using Java as my language. Currently, I am planning on making a switch to the faster and harder to learn language C++ to expand my knowledge and speed.
+My name is Brian Dai and I'm currently a student attending NYU Stern studying Business and Computer Science in CAS. I started learning Java around the beginning of 8th grade. During my learning journey there were a lot of ups and downs, but I'm here now using Java as my primary language with fluency in C++, HTML, JSS, etc. Currently, I am working on side projects to up my technical skills/knowledge.
